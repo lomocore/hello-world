@@ -1,2 +1,9 @@
 # hello-world
-practice practice practice
+**practice practice practice**
+
+---
+
+here's to:
+- learning front end development
+- pivoting into a new career
+- learning how to network effectively and meet interesting people
