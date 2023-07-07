@@ -8,11 +8,6 @@ here's to:
 - pivoting into a new career
 - learning how to network effectively and meet interesting people
 
-let's add some more shit here:
-- [ ]
-- [ ]
-- [ ]
-
 ```
 let Jeff = 'Full Stack Web Developer'
 ```
